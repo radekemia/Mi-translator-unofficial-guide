@@ -1,6 +1,7 @@
 # Mi-translator-unofficial-guide
 米家翻译机(FYJ01QP)的~~并非~~完全使用指南
 
+# 半弃坑 哪天有心情再搞吧（×
 
 ***！注意！***
 
